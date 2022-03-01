@@ -14,7 +14,7 @@ We provide an extensive data set for evaluating machine learning models on the t
 The data is provided either in the form of low-resolution image cut-outs of sources or in the form of tabular data listing physically meaningful features (e.g., magnitudes, colours, etc.) extracted from the images.
 
 Image data is provided in astropy.fits format, while tabular data is provided as csv tables. 
-Data loading and pre-preprocessing routines are included (with examples) in the code.
+Data loading and preprocessing routines are included (with examples) in the code.
 
 ### Files
 
