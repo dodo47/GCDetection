@@ -1,5 +1,7 @@
 # Explanation of tabular features in ACS_sources_original.csv
 
+See also photutil's segmentation routines: https://photutils.readthedocs.io/en/stable/segmentation.html
+
 Columns:
  -   `ID:`                  ID in the individual galaxy
  -   `galaxy:`              galaxy name  
