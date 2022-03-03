@@ -11,7 +11,7 @@ Extragalactic globular clusters (GCs) are important tracers of galaxy formation 
 ### Overview
 
 We provide an extensive data set for evaluating machine learning models on the task of detecting GCs. In total, the data set consists of `84929 sources including 18556 GCs and 63829 non-GCs`. It can be further split into two data sets (e.g., for training and testing on different environments), one containing data from the `Fornax galaxy cluster (21767 sources in total including 6161 GCs and 15606 non-GCs)` and one containing data from the `Virgo galaxy cluster (63162 sources in total including 12395 GCs and 50767 non-GCs)`.
-The data is provided either in the form of low-resolution image cut-outs of sources or in the form of tabular data listing physically meaningful features (e.g., magnitudes, colours, etc.) extracted from the images.
+The data is provided either in the form of 20x20 pixel image cut-outs of sources or in the form of tabular data listing physically meaningful features (e.g., magnitudes, colours, etc.) extracted from the images.
 
 Image data is provided in astropy.fits format, while tabular data is provided as csv tables. 
 Data loading and preprocessing routines are included (with examples) in the code.
