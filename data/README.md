@@ -1,6 +1,7 @@
 # Explanation of tabular features in ACS_sources_original.csv
 
 See also photutil's segmentation routines: https://photutils.readthedocs.io/en/stable/segmentation.html
+And photutil's aperture photometry routines: https://photutils.readthedocs.io/en/stable/aperture.html
 
 Columns:
  -   `ID:`                  ID in the individual galaxy
