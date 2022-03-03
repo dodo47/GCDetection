@@ -34,10 +34,18 @@ Columns:
  -  `HST_ID:`              ID of the source in the ACSFCS catalogue (only if matched, otherwise nan)
  -  `pGC:`                 probabilty that a source is a GC, from ACSFCS catalogue (0 if not matched)
  -  `matched:`             bool whether it is matched with the ACSFCS catalogue or not
- -  `CI_g:`                concentration index measurement (measurement of source extension) in g band
- -  `CI_z:`                in z
+ -  `CI3_g:`               concentration index measurement (measurement of magnitude between 3 pix aperture and 1 pix) in g band
+ -  `CI3_z:`               in z
  -  `m3_g:`                some simple measure of magnitude (brightness) in a 3 pixel aperture in g band
  -  `m3_z:`                in z
+ -  `CI4_g:`               concentration index measurement (measurement of magnitude between 4 pix aperture and 1 pix) in g band
+ -  `CI4_z:`               in z
+ -  `m4_g:`                some simple measure of magnitude (brightness) in a 4 pixel aperture in g band
+ -  `m4_z:`                in z
+ -  `CI5_g:`               concentration index measurement (measurement of magnitude between 5 pix aperture and 1 pix) in g band
+ -  `CI5_z:`               in z
+ -  `m5_g:`                some simple measure of magnitude (brightness) in a 5 pixel aperture in g band
+ -  `m5_z:`                in z
  -  `fwhm:`                fitted measure of source size (failed for many sources, there 0 -- better not use this feature!)
  -  `e_fwhm:`              error/standard deviation on fwhm
  -  `colour:`              m3_g - m3_z, also known as the colour of the source.
