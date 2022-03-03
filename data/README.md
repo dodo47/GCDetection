@@ -1,7 +1,7 @@
 # Data 
 
 We are using both tabular data of detected sources and image data (20x20 pixel cut-outs) in the g and z filters.\
-`ACS_sources_original.csv` contains the tabular data as extracted from the .drz drizzled HST ACS images downloaded from the Hubble Legacy Archive.\
+`ACS_sources_original.csv` contains the tabular data as extracted from the drz fits drizzled HST ACS images downloaded from the Hubble Legacy Archive.\
 `data_extraction_routines.ipynb` is a jupyter notebook showing the code used for the construction of this table.
 
 # Explanation of tabular features in ACS_sources_original.csv
