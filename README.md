@@ -24,7 +24,7 @@ We further include data for NGC1427a for additional model testing.
 
 ### Details on data set generation
 
-To generate the labelled data set, we use the data from the Advanced Camera for Surveys (ACS) Virgo Cluster Survey (ACSVCS; Côté et al. 2004) and ACS Fornax  Cluster  Survey  (ACSFCS;  Jordán  et  al.  2007a),  in  which GCs are marginally resolved due to the close distances of the Virgo  and  Fornax  galaxy  clusters  (16.5  Mpc  and  20  Mpc,  respectively). Sources were labelled via cross-referencing using existing GC catalogues (Jordán et al. 2007, 2015). Both the ACSVCS and the ACSFCS are surveys based on Hubble Space Telescope (HST) ACS observations in the F475W (∼g) and F850LP (∼z) bands of 100 massive early-type galaxies in Virgo and 43 galaxies in the Fornax galaxy cluster, respectively.
+To generate the labelled data set, we use the data from the Advanced Camera for Surveys (ACS) Virgo Cluster Survey (ACSVCS; Côté et al. 2004) and ACS Fornax  Cluster  Survey  (ACSFCS;  Jordán  et  al.  2007a),  in  which GCs are marginally resolved due to the close distances of the Virgo  and  Fornax  galaxy  clusters  (16.5  Mpc  and  20  Mpc,  respectively). Sources were labelled via cross-referencing using existing GC catalogues (Jordán et al. 2007, 2015). Both the ACSVCS and the ACSFCS are surveys based on Hubble Space Telescope (HST) ACS observations in the F475W (∼g) and F850LP (∼z) bands of 100 massive early-type galaxies in Virgo and 43 galaxies in the Fornax galaxy cluster, respectively. The code used for creating the tabular data is in `data/data_extraction_routines.ipynb`.
 
 ## Code
 
