@@ -1,6 +1,6 @@
 # Machine learning for detecting extragalactic globular clusters
 
-Data and code for the publication "Evaluating the feasibility of interpretable machine learning for globular cluster detection".
+Data and code for the publication ["Evaluating the feasibility of interpretable machine learning for globular cluster detection"](https://doi.org/10.1051/0004-6361/202243354).
 
 ## Introduction
 
