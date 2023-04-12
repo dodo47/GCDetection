@@ -43,15 +43,14 @@ Example notebooks replicating the experiments shown in the publication can be fo
 If you use the provided data set or code, or find it helpful for your own work, please cite
 
 ```
-@article{dold2022feasibility,
+@article{dold2022evaluating,
   title={Evaluating the feasibility of interpretable machine learning for globular cluster detection},
   author={Dold, Dominik and Fahrion, Katja},
-  journal={},
-  volume={},
-  number={},
-  pages={},
+  journal={Astronomy \& Astrophysics},
+  volume={663},
+  pages={A81},
   year={2022},
-  publisher={}
+  publisher={EDP Sciences}
 }
 ```
 
